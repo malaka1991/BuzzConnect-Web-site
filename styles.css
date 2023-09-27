@@ -1,0 +1,55 @@
+* {
+  /* background-color: black; */
+  color: white;
+  /* font-family: "Kaushan Script", cursive; */
+  font-family: "Noto Sans", sans-serif;
+  /* font-family: "Raleway", sans-serif; */
+  /* background-image: url("images/Pattern.png"); */
+}
+
+.bg-image {
+  background-image: url("images/Pattern.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.btn {
+  background-color: rgba(1, 194, 154, 1) !important;
+  width: 180px;
+}
+
+.btn1 {
+  border: 1px solid rgba(1, 194, 154, 1);
+  border-radius: 5px;
+  height: 38px;
+  width: 180px;
+  background-color: white;
+  color: black;
+}
+
+.btn2 {
+    background-color: rgba(1, 194, 154, 1);
+    border-radius: 5px;
+    height: 38px;
+    color: black;
+    border: none;
+  }
+
+/* .vl {
+  border-left: 1px solid rgb(246, 248, 246);
+  height: 60px;
+} */
+
+.bord{
+    border: 2px solid wheat;
+    border-radius: 5px;
+}
+
+.butn{
+    background-color:rgba(1, 194, 154, 1) ;
+    border-radius: 5px;
+    width: 35px;
+    height: 35px;
+    padding: 5px;
+}
