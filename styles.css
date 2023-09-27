@@ -36,6 +36,16 @@
     border: none;
   }
 
+  .btn3 {
+    background-color: rgba(1, 194, 154, 1);
+    border-radius: 5px;
+    height: 38px;
+    width: 6px;
+    color: black;
+    border: none;
+  }
+
+
 /* .vl {
   border-left: 1px solid rgb(246, 248, 246);
   height: 60px;
@@ -52,4 +62,12 @@
     width: 35px;
     height: 35px;
     padding: 5px;
+}
+
+.icon::before {
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
 }
